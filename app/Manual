@@ -1,0 +1,13 @@
+Installation
+pip install -r requirements.txt
+
+Usage
+Add one or more invoice PDFs to:
+data/input/
+
+Run the project:
+cd app
+python main.py
+
+The extracted files will be saved in:
+../data/output/
