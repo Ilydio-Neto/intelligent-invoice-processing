@@ -1,4 +1,4 @@
-# Intelligent Invoice Processing
+# Intelligent Invoice Processing (RPA + AI)
 
 A Python-based automation project that extracts, validates, and structures invoice data from PDF files.
 
