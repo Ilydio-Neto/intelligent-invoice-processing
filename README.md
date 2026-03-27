@@ -1,6 +1,3 @@
-# intelligent-invoice-processing
-Automação completa para leitura e processamento de notas fiscais/faturas.
-
 # Intelligent Invoice Processing
 
 A Python-based automation project that extracts, validates, and structures invoice data from PDF files.
